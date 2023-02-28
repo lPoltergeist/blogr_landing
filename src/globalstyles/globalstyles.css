@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+li,
+span,
+p,
+button {
+    font-family: "montserrat", sans-serif;
+}
+
+li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
